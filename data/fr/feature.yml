@@ -4,7 +4,7 @@ feature:
   tag: NOTRE SOLUTION
   image : images/feature/wm.png
   title : ""
-  content : "Ludique et flexible,  TAKE OVER vous permet d’organiser des animations pour chaque occasion, chaque taille d’audience.  Aucune intervention humaine nécessaire.  Tout est géré automatiquement : il ne vous reste plus qu’à remettre le cadeau au grand gagnant du concours organisé au sein de votre société !"
+  content : "Ludique et flexible,  TAKE OVER vous permet d’organiser des animations pour chaque occasion et pour chaque taille d’audience.  Aucune intervention humaine n'est nécessaire.  Tout est géré automatiquement : il ne vous reste plus qu’à remettre le cadeau au grand gagnant !"
   feature_Item : 
     - icon : images/feature/01.png
       
