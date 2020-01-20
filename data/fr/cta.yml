@@ -2,7 +2,7 @@
 cta:
   enable : true
   bg_Image : "images/feature/bg.png"
-  title : "Déployez takeover dans votre installation"
+  title : "Déployez Take Over selon vos besoins"
   content : ""
   button:
     enable : true
