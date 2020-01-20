@@ -91,7 +91,7 @@ link = "https://twitter.com/WisslMedia"
 
 [[params.social_Icon]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/wissl-media/
+link = "https://www.linkedin.com/company/wissl-media/"
 
 ##[[params.social_Icon]]
 ##icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
