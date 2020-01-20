@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://WisslMedia.com"
+title = "WisslMedia"
 theme = "meghna"
 # post pagination
 paginate = "6"
