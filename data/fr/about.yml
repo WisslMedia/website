@@ -6,17 +6,17 @@ about:
   - icon : '/images/about/visuel.png'
     image_position: -1
     tag: GAMIFIEZ
-    title : Organisez des animations interactives sur grand écran 
-    content : Que vous souhaitiez animer un stade ou une salle de coférence, rentabilisez le temps d’attente, les mi-temps, l'attente entre deux conférences, ou animez vos séminaires.
+    title : "Organisez des animations interactives sur grand écran"
+    content : "Que vous souhaitiez animer un stade ou une salle de coférence, rentabilisez le temps d’attente, les mi-temps, l'attente entre deux conférences, ou animez vos séminaires."
 
   - icon : '/images/about/data.png' 
     image_position: 1
     tag: DATA/CRM
-    title : Transformez les fans en leads de qualité
-    content : Susciter la participation des foules et générez des leads qualifiés. Créez de l’engagement en transformant les spectateurs en acteurs de l’événement.
+    title : "Transformez les fans en leads de qualité"
+    content : "Susciter la participation des foules et générez des leads qualifiés. Créez de l’engagement en transformant les spectateurs en acteurs de l’événement."
 
   - icon : '/images/about/monetize.png' 
     image_position: -1
     tag: MONÉTISEZ
-    title : une offre innovante pour les sponsors
-    content : Avec un taux de participation très élevé, générez de nombreux leads pour vos partenaires.
+    title : "une offre innovante pour les sponsors"
+    content : "Avec un taux de participation très élevé, générez de nombreux leads pour vos partenaires."
