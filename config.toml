@@ -64,10 +64,10 @@ URL = "plugins/wow/wow.min.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "Gamifiez, boostez l’engagement et monétisez votre audience"
+author = "WisslMedia"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-90139151-8"
 # post share
 postShare = true
 
