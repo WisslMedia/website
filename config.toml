@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://WisslMedia.com"
+baseURL = "http://www.wisslmedia.com"
 title = "WisslMedia"
 theme = "meghna"
 # post pagination
