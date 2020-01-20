@@ -2,7 +2,7 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
+  subtitle : Contact
   content : ""
   form_Action: "https://formspree.io/mgearljb" #contact form works with https://formspree.io
   map:
@@ -13,10 +13,7 @@ contact:
 
   contact_Details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "DESKEO - 9 Boulevard Gouvion-Saint-Cyr, 75017 Paris"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +33-6-77-17-47-28"
+      info : "92 Rue Anatole France, 92300 Levallois-Perret"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: contact@wisslmedia.com"
+      info : "Email: contact [@] wisslmedia.com"
