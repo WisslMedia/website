@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  clip: "https://storage.googleapis.com/take-over-football/cb901ec486384412a6fd8c0e2c73f4e6/hero_loop.mp4"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "ENGAGEZ LA FOULE"
+  content : "Gamifiez, boostez l’engagement et monétisez votre audience"
+  button:
+    enable : true
+    label : "Explorez-nous"
+    link : "#services"

@@ -1,0 +1,40 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.about.about.enable }}
+{{ with $data.about.about }}
+{{"<!-- Start About Section -->" | safeHTML}}
+<section class="bg-one about section" id="about">
+	<div class="container">
+
+		{{ range .about_Item }}
+		{{"<!-- About item -->" | safeHTML}}
+		<div class="row">
+			{{ if (ge .image_position 1) }}
+			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
+				<img src="{{ .icon}}" />
+			</div>
+			{{ end }}
+			<div class="col-lg-6 text-center wow fadeInUp about-text-content " data-wow-duration="500ms">
+				{{"<!-- Express About Yourself -->" | safeHTML}}
+				
+				<div class="content text-v-center">
+					<div class="about-tag">
+						{{ .tag }}
+					</div>
+					<h3 class="ddd">{{ .title }}</h3>
+					<p>{{ .content | markdownify }}</p>
+				</div>
+			</div>
+			{{ if (lt .image_position 0) }}
+			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
+				<img src="{{ .icon}}" />
+			</div>
+			{{ end }}
+		</div>
+		{{ end }}
+
+	</div>
+</section>
+{{"<!-- /about -->" | safeHTML}}
+{{ end }}
+{{ end }}
