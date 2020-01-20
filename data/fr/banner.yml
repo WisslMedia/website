@@ -8,4 +8,4 @@ banner:
   button:
     enable : true
     label : "Explorez-nous"
-    link : "#services"
+    link : "#about"

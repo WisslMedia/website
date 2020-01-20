@@ -3,8 +3,7 @@
 {{ if $data.testimonial.testimonial.enable }}
 {{ with $data.testimonial.testimonial }}
 {{"<!-- Start Testimonial -->" | safeHTML}}
-<section id="testimonial" class="testimonial overly section bg-2"
-	style='background-image: url("{{ .bg_Image | absURL }}")'>
+<section id="testimonial" class="testimonial overly section bg-2">
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
@@ -12,22 +11,22 @@
 				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
 					{{ range .testimonial_Item }}
 					{{"<!-- testimonial single -->" | safeHTML}}
-					<div class="item text-center">
-
-						{{"<!-- client photo -->" | safeHTML}}
-						<div class="client-thumb">
-							<img src="{{ .image | relURL }}" class="img-fluid" alt="{{ .name }}">
-						</div>
-
-						{{"<!-- client info -->" | safeHTML}}
-						<div class="client-info">
-							<div class="client-meta">
-								<h3>{{ .name }}</h3>
-								<span>{{ .date }}</span>
+					<div class="item text-center row">
+						
+						<div class="row client-info" style="justify-content: center; align-items: center;" >
+							<div class="col-lg-4"  >
+								<img src="{{ .image | relURL }}" class="img-fluid"
+									style=" margin: auto; " alt="{{ .name }}">
 							</div>
-							<div class="client-comment">
-								<p>{{ .content | markdownify }}</p>
+							<div class="col-lg-8" >
+								<div class="client-comment">
+									<p>{{ .content | markdownify }}</p>
+								</div>
+								<div class="client-meta">
+									<i>{{ .name }}</i>
+								</div>
 							</div>
+							
 						</div>
 					</div>
 					{{"<!-- /testimonial single -->" | safeHTML}}

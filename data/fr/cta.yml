@@ -1,10 +1,28 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_Image : "images/backgrounds/bg-1.jpg"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  bg_Image : "images/feature/bg.png"
+  title : "Déployez takeover dans votre installation"
+  content : ""
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Demander une démo"
     link : "#contact"
+  feature_Item:
+    - icon : images/services/01.svg
+      name: "Stade"
+      
+    - icon : images/services/02.svg
+      name: "Conférence"
+
+    - icon : images/services/03.svg
+      name: "Concert"
+      
+    - icon : images/services/04.svg
+      name: "Centre commercial"
+
+    - icon : images/services/05.svg
+      name: "E-sports"
+
+    - icon : images/services/06.svg
+      name: "Évènements internes"

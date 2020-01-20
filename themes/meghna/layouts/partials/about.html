@@ -11,7 +11,7 @@
 		<div class="row">
 			{{ if (ge .image_position 1) }}
 			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
-				<img src="{{ .icon}}" />
+				<img class="img-fluid" src="{{ .icon}}" />
 			</div>
 			{{ end }}
 			<div class="col-lg-6 text-center wow fadeInUp about-text-content " data-wow-duration="500ms">
@@ -27,7 +27,7 @@
 			</div>
 			{{ if (lt .image_position 0) }}
 			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
-				<img src="{{ .icon}}" />
+				<img class="img-fluid" src="{{ .icon}}" />
 			</div>
 			{{ end }}
 		</div>

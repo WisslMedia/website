@@ -229,7 +229,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #0091FF;
   color: #fff;
 }
 
@@ -239,6 +239,7 @@ a:hover {
 
 .section {
   padding: 100px 0;
+  overflow: hidden;
 }
 
 @media (max-width: 480px) {
@@ -323,7 +324,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #fff;
 }
 
 .overly {
@@ -478,6 +479,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .hero-area:before {
@@ -499,8 +501,8 @@ a:hover {
 }
 
 .hero-area .block-footer img {
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 .hero-area .block {
@@ -622,21 +624,38 @@ a:hover {
   border-color: #0091FF;
   border-radius: 1px;
   border-style: solid;
-  width: 110px;
+  width: 160px;
   padding-left: 10px;
   padding-right: 10px;
-  text-align: left;
   text-align: center;
   margin-bottom: 20px;
 }
 
+.title-h2{
+  color: #000;
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .about-text-content {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .text-v-center {
   margin: auto;
-  margin-left: 0px;
+}
+
+.margin-top-30{
+  margin-top: 30px;
+}
+
+.margin-60{
+  margin-top: 60px;
+  padding-bottom: 60px;
 }
 
 .text-v-center p{
@@ -1233,6 +1252,10 @@ a:hover {
   margin: 0 auto;
   max-width: 115px;
   width: 100%;
+}
+
+.justify{
+  text-align: justify;
 }
 
 .client-meta {
