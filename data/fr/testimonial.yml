@@ -5,7 +5,7 @@ testimonial:
   testimonial_Item :
     # testimonial item loop
     - name : Dominique Serieys, PDG
-      image : images/clubs/arena.png
+      image : images/clubs/racing.svg
       date : Dec 26, 2018
       content : “Incroyablement bien pensé, pratique et ludique, en adéquation avec nos valeurs”
       
