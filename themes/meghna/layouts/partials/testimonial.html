@@ -12,14 +12,13 @@
 					{{ range .testimonial_Item }}
 					{{"<!-- testimonial single -->" | safeHTML}}
 					<div class="item text-center row">
-						
 						<div class="row client-info" style="justify-content: center; align-items: center;" >
 							<div class="col-lg-4"  >
 								<img src="{{ .image | relURL }}" class="img-fluid"
 									style=" margin: auto; height: 100px; " alt="{{ .name }}">
 							</div>
 							<div class="col-lg-8" >
-								<div class="client-comment">
+								<div class="client-comment justify  d-flex" >
 									<p>{{ .content | markdownify }}</p>
 								</div>
 								<div class="client-meta">
