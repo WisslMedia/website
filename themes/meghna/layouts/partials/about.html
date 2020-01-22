@@ -10,11 +10,11 @@
 		{{"<!-- About item -->" | safeHTML}}
 		<div class="row" id="{{ .item_id }}">
 			{{ if (ge .image_position 1) }}
-			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
+			<div class="col-lg-6 text-center wow fadeInUp order-2 order-sm-2 order-lg-1" data-wow-duration="800ms">
 				<img class="img-fluid" src="{{ .icon}}" />
 			</div>
 			{{ end }}
-			<div class="col-lg-6 text-center wow fadeInUp about-text-content " data-wow-duration="500ms">
+			<div class="col-lg-6 text-center wow fadeInUp about-text-content order-1 order-sm-1 order-lg-2" data-wow-duration="500ms">
 				{{"<!-- Express About Yourself -->" | safeHTML}}
 				
 				<div class="content text-v-center">
@@ -26,7 +26,7 @@
 				</div>
 			</div>
 			{{ if (lt .image_position 0) }}
-			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
+			<div class="col-lg-6 text-center wow fadeInUp order-2 order-sm-2 order-lg-3" data-wow-duration="800ms">
 				<img class="img-fluid" src="{{ .icon}}" />
 			</div>
 			{{ end }}
