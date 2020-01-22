@@ -1,7 +1,7 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+  title : Contactez-nous
   subtitle : Contact
   content : ""
   form_Action: "https://formspree.io/mgearljb" #contact form works with https://formspree.io
