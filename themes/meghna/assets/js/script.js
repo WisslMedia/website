@@ -27,6 +27,11 @@ jQuery(function ($) {
 		fixedContentPos: false,
 		fixedBgPos: true
 	});
+	$('.contact-popup').magnificPopup({
+		type: 'inline',
+		midClick: true 
+	});
+
 	/* ========================================================================= */
 	/*	Portfolio Filtering Hook
 	/* =========================================================================  */

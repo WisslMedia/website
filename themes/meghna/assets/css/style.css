@@ -424,6 +424,11 @@ a:hover {
 
 }
 
+.blue {
+  background-color: #0091FF;
+  border-radius: 18px;
+}
+
 .navigation .navigation-menu li a {
   font-size: 16px;
   color: #fff;
@@ -813,10 +818,10 @@ a:hover {
 
 .form-meghna .form-control {
   background-color: transparent;
-  border-radius: 0;
+  border-radius: 5px;
   padding: 5px 10px;
-  color: #ddd;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  color: #222;
+  border: 1px solid rgba(236, 239, 241, 0.9);
 }
 
 .form-meghna .form-control:focus {
@@ -831,7 +836,7 @@ a:hover {
 }
 
 .form-meghna ::placeholder {
-  color: #ddd !important;
+  color: #AAA !important;
 }
 
 #contact-submit {
@@ -1572,6 +1577,21 @@ a:hover {
     visibility: hidden;
     content: "";
   }
+}
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 50px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.content-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .post-comment {

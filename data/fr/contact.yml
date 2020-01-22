@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contactez-nous
   subtitle : Contact
-  content : ""
+  content : "UNE QUESTION, UN PROJET?"
   form_Action: "https://formspree.io/mgearljb" #contact form works with https://formspree.io
   map:
     enable : false

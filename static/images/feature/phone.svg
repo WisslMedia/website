@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>contact-phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contact-phone" transform="translate(-7.000000, -7.000000)">
+            <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+            <path d="M13.8377778,21.7144444 C16.5577778,27.06 20.94,31.4233333 26.2855556,34.1622222 L30.4411111,30.0066667 C30.9511111,29.4966667 31.7066667,29.3266667 32.3677778,29.5533333 C34.4833333,30.2522222 36.7688889,30.63 39.1111111,30.63 C40.15,30.63 41,31.48 41,32.5188889 L41,39.1111111 C41,40.15 40.15,41 39.1111111,41 C21.3744444,41 7,26.6255556 7,8.88888889 C7,7.85 7.85,7 8.88888889,7 L15.5,7 C16.5388889,7 17.3888889,7.85 17.3888889,8.88888889 C17.3888889,11.25 17.7666667,13.5166667 18.4655556,15.6322222 C18.6733333,16.2933333 18.5222222,17.03 17.9933333,17.5588889 L13.8377778,21.7144444 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
