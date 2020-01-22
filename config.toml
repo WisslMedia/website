@@ -44,19 +44,34 @@ URL = "plugins/wow/wow.min.js"
 
   [[menu.main]]
   name = "Gamifiez"
-  URL = "about"
+  URL = "gamifiez"
   weight = 1
+
+  [[menu.main]]
+  name = "Data/CRM"
+  URL = "data_crm"
+  weight = 2
+
+  [[menu.main]]
+  name = "Monétisez"
+  URL = "monetize"
+  weight = 3
 
   [[menu.main]]
   name = "Solution"
   URL = "feature"
-  weight = 5
-
+  weight = 4
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 7
+  weight = 5
+    
+  
+  [[menu.main]]
+  name = "DÉMANDER UNE DÉMO"
+  URL = "contact"
+  weight = 6
 
 
 

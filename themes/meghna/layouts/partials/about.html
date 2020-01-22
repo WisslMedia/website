@@ -8,7 +8,7 @@
 
 		{{ range .about_Item }}
 		{{"<!-- About item -->" | safeHTML}}
-		<div class="row">
+		<div class="row" id="{{ .item_id }}">
 			{{ if (ge .image_position 1) }}
 			<div class="col-lg-6 text-center wow fadeInUp " data-wow-duration="800ms">
 				<img class="img-fluid" src="{{ .icon}}" />

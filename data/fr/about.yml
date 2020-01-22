@@ -4,18 +4,21 @@ about:
   title : About Us
   about_Item :
   - icon : '/images/about/visuel.png'
+    item_id: 'gamifiez'
     image_position: -1
     tag: GAMIFIEZ
     title : "Organisez des animations interactives sur grand écran"
     content : "Que vous souhaitiez animer un stade, une salle de concert ou juste une de réunion, rentabiliser le temps d’attente, les mi-temps, ou gamifier vos séminaires."
 
   - icon : '/images/about/data.png' 
+    item_id: 'data_crm'
     image_position: 1
     tag: DATA/CRM
     title : "Transformez les fans en leads de qualité"
     content : "Susciter la participation des foules et générez des leads qualifiés. Créez de l’engagement en transformant les spectateurs en acteurs de l’événement."
 
   - icon : '/images/about/monetize.png' 
+    item_id: 'monetize'
     image_position: -1
     tag: MONÉTISEZ
     title : "une offre innovante pour les sponsors"
