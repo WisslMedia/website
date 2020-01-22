@@ -8,7 +8,7 @@ about:
     image_position: -1
     tag: GAMIFIEZ
     title : "Organisez des animations interactives sur grand écran"
-    content : "Que vous souhaitiez animer un stade, une salle de concert ou juste une de réunion, rentabiliser le temps d’attente, les mi-temps, ou gamifier vos séminaires."
+    content : "Que vous souhaitiez animer un stade, une salle de concert ou une réunion, rentabiliser le temps d’attente, les mi-temps, ou gamifier vos séminaires."
 
   - icon : '/images/about/data.png' 
     item_id: 'data_crm'
