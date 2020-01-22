@@ -1,0 +1,53 @@
+faq:
+  enable : true
+  title: "FAQ"
+  faq_Item :
+    - id: 1
+      title : "Faut il télécharger une application ?"
+      content : "Non ! Aucune application n’est nécessaire pour participer aux différentes animations proposées ! 
+      Il suffit de scanner le QR code ou de renseigner l’URL affichée pour prendre part à l’activité."
+    
+    - id: 2
+      title : "Comment Scanner un QR Code ?"
+      content : "C'est très simple ! 
+
+      Sur iPhone, Il suffit de viser le QR code avec son smartphone en mode Photo (On ne prend PAS la photo !) Le téléphone reconnaît alors le QR code… et il suffit de cliquer sur le lien alors proposé. Sur certains téléphones Android, cela fonctionne de la même façon. Pour autant, il est fréquent qu'il soit nécessaire d’installer une application spécifique. Toutefois, il est également possible de renseigner dans un navigateur internet (Chrome, safari…) l'URL associée au QRcode."
+  
+    - id: 3
+      title : "Peut-on scanner un QR code sur un écran très éloigné ?"
+      content : "Absolument ! Nos déploiements dans des stades le prouvent. Si le Téléphone ne reconnait pas le QR Code… il suffit alors de zoomer !	En cas de soucis, il vous suffira de renseigner l'URL associée. "
+  
+    - id: 4
+      title : "Faut il une connexion internet pour participer ?"
+      content : "Oui, L'utilisateur doit être connecté en Wifi ou bien, en 4G pour pouvoir participer."
+      
+    - id: 5
+      title : "Quels sont les mobiles compatibles avec Take Over ?"
+      content : "Tous les smartphones iOS (iPhone) ou Android (Samsung, Xiaomi, Huawei…) sont compatibles."
+   
+    - id: 6
+      title : "Combien d’utilisateurs peuvent participer simultanément ?"
+      content : "Take Over a été imaginé et déployé pour permettre son utilisation par plusieurs milliers de personnes en même temps !
+  Il faudra néanmoins vous assurer que le lieu où se déroulera l’événement puisse recevoir autant de connexions simultanées sur vos bornes Wifi et / ou que la qualité de la 4G soit suffisante."
+  
+    - id: 7
+      title : "Combien de temps faut-il pour déployer Take Over ?"
+      content : "24h suffisent pour déployer Take Over. Ensuite, créer une animation (Quiz, Sondage, Pronostics…) ne prend que quelques minutes."
+
+    - id: 8
+      title : "Comment créer des Quiz, sondages, Pronostics…  ?"
+      content : "Vous disposerez d’un accès privé à notre **Back-Office** depuis lequel vous pourrez créer toutes les animations souhaitées.
+        
+
+	Après une petite formation video de trente minutes environ, vous serez totalement autonome pour prendre en main l’outil.
+	Aucune connaissance technique n’est nécessaire.
+  
+  
+  Bien sur, nous restons à votre disposition pour vous accompagner tout au long de notre collbaoration."
+
+    - id: 9
+      title : "Comment puis-je récupérer les données ?"
+      content : "D’un clic depuis le Back-Office, vous pourrez récupérer l’intégralités des données collectées lors de vos évènements.
+	L’export se fait au format CSV ou bien, Excel.
+	Sur devis, nous pouvons également nous connecter à votre CRM habituel (SalesForce par exemple)"
+  

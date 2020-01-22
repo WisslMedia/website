@@ -66,12 +66,16 @@ URL = "plugins/wow/wow.min.js"
   name = "Contact"
   URL = "contact"
   weight = 5
-    
+
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 6  
   
   [[menu.main]]
   name = "DÉMANDER UNE DÉMO"
   URL = "contact"
-  weight = 6
+  weight = 7
 
 
 

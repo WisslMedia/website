@@ -25,7 +25,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ml-auto navigation-menu">
 				{{ range .Site.Menus.main }}
-				<li class="nav-item"><a class="nav-link {{if (gt .Weight 5)}}blue{{ end }}" href="#{{ .URL }}">{{ .Name }}</a></li>
+				<li class="nav-item"><a class="nav-link {{if (gt .Weight 6)}}blue{{ end }}" href="#{{ .URL }}">{{ .Name }}</a></li>
 				{{ end }}
 			</ul>
 		</div>
@@ -34,7 +34,7 @@
 			<ul class="navbar-nav ml-auto navigation-menu">
 				
 				{{ range .Site.Menus.main }}
-				<li class="nav-item"><a class="nav-link {{if (gt .Weight 5)}}blue{{ end }}" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ .Name }}</a></li>
+				<li class="nav-item"><a class="nav-link {{if (gt .Weight 6)}}blue{{ end }}" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ .Name }}</a></li>
 				{{ end }}
 			</ul>
 		</div>
