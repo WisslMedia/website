@@ -77,8 +77,9 @@
 			</div>
 
 			<div id="phone-form" class="white-popup mfp-hide">
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_Action | safeURL }}"
+				<form id="contact-form-phone" class="form-meghna" method="post" action="{{ .form_Action | safeURL }}"
 					role="form">
+					
 					<input type="hidden" name="_next" value="https://www.wisslmedia.com"/>
 					<div class="form-group">
 						<input type="text" placeholder="Votre Nom" class="form-control" name="name" id="name">
@@ -86,6 +87,7 @@
 					<div class="form-group">
 						<input type="phone" placeholder="Votre Numéro" class="form-control" name="phone" id="phone">
 					</div>
+					<div class="g-recaptcha" data-sitekey="6Ldt68UZAAAAAEyEduASFUko7OkvgK7uvwDJ5PlG"></div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="Submit">Envoyer</button>
@@ -94,8 +96,9 @@
 			</div>
 
 			<div id="message-form" class="white-popup mfp-hide">
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_Action | safeURL }}"
+				<form id="contact-form-message" class="form-meghna" method="post" action="{{ .form_Action | safeURL }}"
 					role="form">
+					
 					<input type="hidden" name="_next" value="https://www.wisslmedia.com"/>
 					<input name="e-mail" type="text" id="e-mail" autocomplete="off">
 					<div class="form-group">
@@ -111,6 +114,7 @@
 						<textarea rows="6" placeholder="Message" class="form-control" name="message"
 							id="message"></textarea>
 					</div>
+					<div class="g-recaptcha" data-sitekey="6Ldt68UZAAAAAEyEduASFUko7OkvgK7uvwDJ5PlG"></div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="Submit">Envoyer</button>
