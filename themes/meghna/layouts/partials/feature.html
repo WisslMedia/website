@@ -28,19 +28,22 @@
 				</div>
 			</div>
 		</div>
-		<div class="row margin-top-30">
+		
+		{{ range .feature_Modules }}
+		<div  class="row margin-10">
+			<h2>{{ .title | markdownify }}</h2>
+			<p style="text-align: justify;">{{ .content | markdownify }}</p>
 			{{ range .feature_Item }}
-			<div class="col-lg-3">
-				
+			<div class="col-lg-3 text-v-center">
 					{{if .icon}}
 					<div class="align-self-center" style="justify-content: center; align-items: center; display: flex;">
 						<img class="img-fluid" src="{{ .icon | relURL }}" alt="image">
 					</div>
 					{{ end }}
-				
 			</div>
 			{{ end }}
 		</div>
+		{{ end }}
 	</div>
 </section>
 {{"<!-- /feature -->" | safeHTML}}

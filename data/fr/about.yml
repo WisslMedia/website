@@ -7,19 +7,19 @@ about:
     item_id: 'gamifiez'
     image_position: -1
     tag: GAMIFIEZ
-    title : "Organisez des animations interactives sur grand écran"
-    content : "Que vous souhaitiez animer un stade, une salle de concert ou une réunion, rentabiliser le temps d’attente, les mi-temps, ou gamifier vos séminaires."
+    title : "EXPERIENCE 100% DIGITALE ET 2ND ECRAN"
+    content : "La plateforme gamifiée Take Over combine une expérience interactive diffusée sur tous vos écrans (géants, LED, ordinateurs portables ou TV) et une interface mobile compatible avec tous les smartphones, pour engager les supporters présents dans votre stade, animer un séminaire en présentiel et à distance, ou faire participer les viewers de vos live-streaming."
 
   - icon : '/images/about/data.png' 
     item_id: 'data_crm'
     image_position: 1
     tag: DATA/CRM
-    title : "Transformez les fans en leads de qualité"
-    content : "Susciter la participation des foules et générez des leads qualifiés. Créez de l’engagement en transformant les spectateurs en acteurs de l’événement."
+    title : "TRANSFORMEZ LES PARTICIPANTS EN LEADS QUALIFIES"
+    content : "A travers ces expériences, vous collectez des données démographiques et comportementales sur vos communautés d’utilisateurs ce qui vous permet de qualifier votre audience et de personnaliser votre communication (respect du RGPD)."
 
   - icon : '/images/about/monetize.png' 
     item_id: 'monetize'
     image_position: -1
     tag: MONÉTISEZ
-    title : "une offre innovante pour les sponsors"
-    content : "Avec un taux de participation très élevé, générez de nombreux leads pour vos partenaires et sponsors."
+    title : "DIVERSIFIEZ VOS REVENUS"
+    content : "Valorisez vos activations auprès de vos partenaires et vos sponsors en communiquant sur l’efficacité des campagnes mesurées à l’aide de dashboards automatisés."

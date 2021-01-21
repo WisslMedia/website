@@ -1,15 +1,49 @@
 ############################# feature ###################################
 feature:
   enable : true
-  tag: NOTRE SOLUTION
+  tag: NOS PACKS
   image : images/feature/wm.png
   title : ""
-  content : "Ludique et flexible,  TAKE OVER vous permet d’organiser des animations pour chaque occasion et pour chaque taille d’audience.  Aucune intervention humaine n'est nécessaire.  Tout est géré automatiquement : il ne vous reste plus qu’à remettre le cadeau au grand gagnant !"
-  feature_Item : 
-    - icon : images/feature/01.png
-      
-    - icon : images/feature/02.png
+  content : "La plateforme Take Over a été conçue pour une activation rapide (24h) et une prise en main facilitée (espace administrateur) afin d'exploiter tout son potentiel, quel que soit le type d'événement organisé :
 
-    - icon : images/feature/03.png
-      
-    - icon : images/feature/04.png
+-	Technologie full web (pas de téléchargement, pas de mise à jour d’application, compatibilité avec l’ensemble des terminaux)
+
+-	Automatisation et mode SaaS (pas de ressource à mobiliser, pas de compétence technique, espace administrateur dédié)
+
+-	Activation immédiate (pas d’ajout de matériel, utilisation de d’infrastructures existante, déploiement instantané)
+
+-	Taux de participation maximum (accès URL et QR code, mécanique intuitive, navigation simplifiée, tutoriels)
+"
+  feature_Modules : 
+    - title : "PACK GAMIFICATION"
+    - content : "Que vous vous adressiez à des fans, des professionnels, des consommateurs ou des collaborateurs, nous vous proposons une gamme de fonctionnalités pour engager et faire participer vous audiences de façon ludique et interactive"
+    - feature_Item :
+      - icon : images/feature/01.png
+      - icon : images/feature/02.png
+      - icon : images/feature/03.png
+      - icon : images/feature/04.png
+    
+    - title : "PACK COMMUNAUTE"
+    - content : "Pour renforcer le sentiment d'appartenance à un groupe de supporters ou créer un esprit d'équipe, le PACK COMMUNAUTE intègre des fonctionnalités pour faciliter le lien social et la collaboration à travers des expériences collectives."
+    - feature_Item :
+      - icon : images/feature/05.png
+      - icon : images/feature/06.png
+
+    - title : "PACK LIVE EVENT"
+    - content : "Nos solutions s'intègrent parfaitement à tous les formats d'événements (en présentiel, à distance ou les 2) mais nous avons aussi la capacité de vous accompagner sur la diffusion et l'animation de votre live pour le rendre encore plus immersif et engageant."
+    - feature_Item :
+      - icon : images/feature/07.png
+      - icon : images/feature/08.png
+      - icon : images/feature/09.png
+
+    - title : "OPTIONS"
+    - content : "    
+- Plateforme évolutive avec l’ajout de vos web applications
+
+- Interopérabilité avec vos programmes de fidélité et votre écosystème digial
+
+- Boutique KDO indépendante ou rattachée à votre écosystème
+
+- Pronostics disponibles pour les championnats français (football, rugby, basketball, handball…), les sports U.S., les sports mécaniques, les Grands Evénements Sportifs Internationaux…
+    "
+

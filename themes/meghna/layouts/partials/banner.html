@@ -7,12 +7,13 @@
 	<video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
 		<source src="{{ .clip | absURL }}" type="video/mp4">
 	</video>
-	<div class="block" >
+	<div class="block">
 		{{ if .icon }}
 		<div class="video-button">
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
+		<p>{{ .head | markdownify }}</p>
 		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
@@ -24,13 +25,19 @@
 
 	<div class="block-footer">
 		<div class="row">
-			<div class="col-lg-4" style="display: flex; justify-content: center; align-items: center;">Nous les équipons</div>
-			<div class="col-lg-8"  style="display: flex;justify-content: center; align-items: center;">
+			<div class="col-lg-4" style="display: flex; justify-content: center; align-items: center;">Nous les équipons
+			</div>
+			<div class="col-lg-4" style="display: flex;justify-content: center; align-items: center;">
 				<img src="/images/clubs/ol.svg" />
 				<img src="/images/clubs/racing.svg" />
 				<img src="/images/clubs/rennais.svg" />
 				<img src="/images/clubs/arena.svg" />
-				<img src="/images/clubs/sdf.svg" />
+			</div>
+			<div class="col-lg-4" style="display: flex;justify-content: center; align-items: center;">
+				<img src="/images/clubs/sdf.svg" width="70" />
+				<img src="/images/clubs/FUTURES.png" width="70" />
+				<img src="/images/clubs/SATIS.webp" width="70" />
+				<img src="/images/clubs/SportUnlimitech.webp" width="70" />
 			</div>
 		</div>
 	</div>
