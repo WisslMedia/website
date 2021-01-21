@@ -58,7 +58,7 @@ URL = "plugins/wow/wow.min.js"
   weight = 3
 
   [[menu.main]]
-  name = "Solution"
+  name = "PACKS"
   URL = "feature"
   weight = 4
 
