@@ -15,8 +15,3 @@ testimonial:
       date : Janvier 2020
       content : "Au-delà de proposer une solution d’animation efficace, Wissl Media a su apporter une touche humaine à son offre. En étant à l’écoute de nos besoins et de nos objectifs, sans oublier l’utilisateur final, Wissl Media est parvenu à créer une relation « Win Win » avec l’Olympique lyonnais. "
       
-    # testimonial item loop
-    - name : Dominique Serieys, PDG
-      image : images/clubs/rennais.svg
-      date : Dec 26, 2018
-      content : "Incroyablement bien pensé, pratique et ludique, en adéquation avec nos valeurs"
