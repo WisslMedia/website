@@ -115,7 +115,7 @@ icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/wissl-media/"
 
 [[params.social_Icon]]
-icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-instagram"
 link = "https://www.instagram.com/wisslmedia/"
 
 ##[[params.social_Icon]]
