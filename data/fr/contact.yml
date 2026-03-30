@@ -1,19 +1,16 @@
 ############################## Contact #############################
 contact:
-  enable : true
-  title : Contactez-nous
-  subtitle : Contact
-  content : "UNE QUESTION, UN PROJET?"
+  enable: true
+  title: Contactez-nous
+  subtitle: Contact
+  content: "UNE QUESTION, UN PROJET?"
   form_Action: "https://formspree.io/mgearljb" #contact form works with https://formspree.io
   map:
-    enable : false
-    gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-    mapLatitude : 51.5223477
+    enable: false
+    gmapAPI: "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+    mapLatitude: 51.5223477
     mapLongitude: -0.1622023
 
-  contact_Details :
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "57 Rue Véron, 94140 Alfortville"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: contact [@] wisslmedia.com"
+  contact_Details:
+    - icon: ti-email # themify icon pack : https://themify.me/themify-icons
+      info: "Email: contact [@] wisslmedia.com"
