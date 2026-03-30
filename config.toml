@@ -11,7 +11,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["en-us"]
+# disableLanguages = ["en-us"]
 defaultContentLanguage = "fr"
 
 ############################# Plugins ##########################
@@ -123,7 +123,7 @@ link = "https://www.instagram.com/wisslmedia/"
 ##link = "#"
 
 ################################# language ################################
-[Languages]
+[languages]
 
   ################################ English Language ########################
   #[Languages.en]
@@ -134,7 +134,7 @@ link = "https://www.instagram.com/wisslmedia/"
   #home = "Home"
 
   ################################ France Language ########################
-  [Languages.fr]
+  [languages.fr]
   languageName = "Fr"
   languageCode = "fr-fr"
   contentDir = "content/french"
