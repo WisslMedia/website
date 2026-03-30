@@ -1,4 +1,5 @@
 # Easy Setup (Hugo + Netlify + Forestry)
+
 Build your website with meghna hugo theme by following this easy steps (No Coding Required)
 
 <a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
@@ -11,18 +12,17 @@ In this tutorial we will show you to make your website live without buying any h
 2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
 3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
 
-
 ### Step 1 : Fork or Clone repository
 
 First we will fork this [meghna hugo](https://github.com/themefisher/meghna-hugo) template.
 
 ### Step 2 : Add your repository in Forestry
 
-Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite/`] and fill up basic settings . Mark everything is done then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
+Go to your [forestry](https://bit.ly/forestry-account) account and click on `import your site now`. declare your config.toml file [`exampleSite/`] and fill up basic settings . Mark everything is done then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
 
 ### Step 3 : Setup and host website with Netlify
 
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `meghna hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify . And now you can see the forked `meghna hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
 
 > If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/meghna-hugo/issues)
 
@@ -44,6 +44,7 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 [Live Demo](http://demo.themefisher.com/meghna-hugo/en/)
 
 ## Installation
+
 At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
 
 ```
@@ -61,7 +62,7 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.  
+If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
 
 ## Licensing
 
@@ -69,14 +70,74 @@ This Theme is released under [Creative Commons Attribution 3.0 (CC-BY-3.0) Licen
 If you want to remove the credit simply make a [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GSG5G2YL3E5V4), so that we can run our contribution to hugo community.
 
 ## Hire Us
+
 We are available for Hiring of your next HUGO project. Drop Us a mail [themefisher@gmail.com](mailto:themefisher@gmail.com)
 
 ## Premium Themes
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/) |
-|:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Biztrox**  | **Bexer**  |
-| [![Enov](https://gethugothemes.com/wp-content/uploads/2019/09/enov-business-template.jpg)](https://gethugothemes.com/products/enov-hugo/) | [![Vixcon](https://gethugothemes.com/wp-content/uploads/edd/2019/09/vixcon-conference-meetup-template-thumbnail.jpg)](https://gethugothemes.com/products/vixcon-hugo/) | [![Orbitor](https://gethugothemes.com/wp-content/uploads/edd/2019/09/orbitor-software-company-website-template.jpg)](https://gethugothemes.com/products/orbitor/) |
-| **Enov** | **Vixcon** | **Orbitor** |
-| [![Agen](https://gethugothemes.com/wp-content/uploads/edd/2019/09/agen-hugo-theme.jpg)](https://gethugothemes.com/products/agen-hugo/) | [![Navigator](https://gethugothemes.com/wp-content/uploads/edd/2019/08/Navigator.jpg)](https://gethugothemes.com/products/navigator/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Agen** | **Navigator** | **More Hugo Themes** |
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) |                [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/)                 |            [![bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/)            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                   **Hugo Mega Bundle**                                                                   |                                                                              **Biztrox**                                                                               |                                                                             **Bexer**                                                                             |
+|        [![Enov](https://gethugothemes.com/wp-content/uploads/2019/09/enov-business-template.jpg)](https://gethugothemes.com/products/enov-hugo/)         | [![Vixcon](https://gethugothemes.com/wp-content/uploads/edd/2019/09/vixcon-conference-meetup-template-thumbnail.jpg)](https://gethugothemes.com/products/vixcon-hugo/) | [![Orbitor](https://gethugothemes.com/wp-content/uploads/edd/2019/09/orbitor-software-company-website-template.jpg)](https://gethugothemes.com/products/orbitor/) |
+|                                                                         **Enov**                                                                         |                                                                               **Vixcon**                                                                               |                                                                            **Orbitor**                                                                            |
+|          [![Agen](https://gethugothemes.com/wp-content/uploads/edd/2019/09/agen-hugo-theme.jpg)](https://gethugothemes.com/products/agen-hugo/)          |                 [![Navigator](https://gethugothemes.com/wp-content/uploads/edd/2019/08/Navigator.jpg)](https://gethugothemes.com/products/navigator/)                  |                     [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/)                      |
+|                                                                         **Agen**                                                                         |                                                                             **Navigator**                                                                              |                                                                       **More Hugo Themes**                                                                        |
+
+# Deployment and Domain Setup Guide for Hugo on GitHub Pages
+
+This guide explains how to properly configure your GitHub repository and DNS settings for automatic deployment and custom domain support.
+
+## 1. Configure GitHub repository for Actions Deployment
+
+By default, GitHub Pages uses a dedicated branch (like `gh-pages`) for deployment. To use the new workflow I added:
+
+1.  Go to your repository on **GitHub**.
+2.  Click on **Settings** (top tab).
+3.  On the left sidebar, select **Pages**.
+4.  Under **Build and deployment**, change the **Source** from "Deploy from a branch" to **GitHub Actions**.
+
+Once this is done, every push to the `main` or `master` branch will trigger the "Deploy Hugo site to Pages" workflow in the **Actions** tab.
+
+## 2. Set Up a Custom Domain on GitHub
+
+1.  While still in the **Pages** settings:
+2.  Under **Custom domain**, enter `www.wisslmedia.com`.
+3.  Click **Save**.
+4.  (Optional but recommended) Check **Enforce HTTPS** once the DNS is propagated.
+
+## 3. Update Your DNS Records (at your domain registrar)
+
+To link `wisslmedia.com` and `www.wisslmedia.com` to GitHub Pages:
+
+### A Records (for the apex domain: `wisslmedia.com`)
+
+Point your apex domain to the following GitHub IP addresses:
+
+- `185.199.108.153`
+- `185.199.109.153`
+- `185.199.110.153`
+- `185.199.111.153`
+
+### CNAME Record (for the subdomain: `www`)
+
+Create or update the `www` CNAME record:
+
+- **Type**: `CNAME`
+- **Host**: `www`
+- **Value**: `<YOUR-GITHUB-USERNAME>.github.io` (Replace `<YOUR-GITHUB-USERNAME>` with your actual GitHub username where the repository is hosted).
+
+> [!NOTE]
+> DNS propagation can take up to 48 hours, but usually happens within an hour.
+
+## 4. How to Change the Domain in the Future
+
+If you want to change the domain again:
+
+1.  **Update `config.toml`**: Change the `baseURL` to the new URL.
+2.  **Update `static/CNAME`**: Change the content of the file and push the change.
+3.  **Update GitHub Settings**: Update the domain name in **Settings > Pages**.
+4.  **Update DNS Records**: Update the DNS settings at your direct registrar as described above.
+
+## Important Note on the CNAME File
+
+I've added a `static/CNAME` file. GitHub Pages uses this file to know which custom domain to serve. By putting it in the `static/` folder of Hugo, it will be copied automatically into the `public/` folder during the build process, ensuring your custom domain settings are preserved on every deployment.
