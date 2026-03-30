@@ -3,7 +3,9 @@ baseURL = "https://www.wisslmedia.com"
 title = "WisslMedia"
 theme = "meghna"
 # post pagination
-paginate = "6"
+[pagination]
+  pagerSize = 6
+
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -112,9 +114,9 @@ link = "https://twitter.com/WisslMedia"
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/wissl-media/"
 
-##[[params.social_Icon]]
-##icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-##link = "#"
+[[params.social_Icon]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/wisslmedia/"
 
 ##[[params.social_Icon]]
 ##icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons

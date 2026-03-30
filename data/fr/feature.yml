@@ -6,13 +6,13 @@ feature:
   title : ""
   content : "La plateforme Take Over a été conçue pour une activation rapide (24h) et une prise en main facilitée (espace administrateur) afin d'exploiter tout son potentiel, quel que soit le type d'événement organisé :
 
--	Technologie full web (pas de téléchargement, pas de mise à jour d’application, compatibilité avec l’ensemble des terminaux)
+-  Technologie full web (pas de téléchargement, pas de mise à jour d’application, compatibilité avec l’ensemble des terminaux)
 
--	Automatisation et mode SaaS (pas de ressource à mobiliser, pas de compétence technique, espace administrateur dédié)
+-  Automatisation et mode SaaS (pas de ressource à mobiliser, pas de compétence technique, espace administrateur dédié)
 
--	Activation immédiate (pas d’ajout de matériel, utilisation de d’infrastructures existante, déploiement instantané)
+-  Activation immédiate (pas d’ajout de matériel, utilisation de d’infrastructures existante, déploiement instantané)
 
--	Taux de participation maximum (accès URL et QR code, mécanique intuitive, navigation simplifiée, tutoriels)
+-  Taux de participation maximum (accès URL et QR code, mécanique intuitive, navigation simplifiée, tutoriels)
 "
   feature_Modules : 
     - title : "PACK GAMIFICATION"

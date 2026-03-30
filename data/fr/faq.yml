@@ -15,7 +15,7 @@ faq:
   
     - id: 3
       title : "Peut-on scanner un QR code sur un écran très éloigné ?"
-      content : "Absolument ! Nos déploiements dans des stades le prouvent. Si le Téléphone ne reconnait pas le QR Code… il suffit alors de zoomer !	En cas de soucis, il vous suffira de renseigner l'URL associée. "
+      content : "Absolument ! Nos déploiements dans des stades le prouvent. Si le Téléphone ne reconnait pas le QR Code… il suffit alors de zoomer !  En cas de soucis, il vous suffira de renseigner l'URL associée. "
   
     - id: 4
       title : "Faut il une connexion internet pour participer ?"
@@ -39,8 +39,8 @@ faq:
       content : "Vous disposerez d’un accès privé à notre **Back-Office** depuis lequel vous pourrez créer toutes les animations souhaitées.
         
 
-	Après une petite formation video de trente minutes environ, vous serez totalement autonome pour prendre en main l’outil.
-	Aucune connaissance technique n’est nécessaire.
+  Après une petite formation video de trente minutes environ, vous serez totalement autonome pour prendre en main l’outil.
+  Aucune connaissance technique n’est nécessaire.
   
   
   Bien sur, nous restons à votre disposition pour vous accompagner tout au long de notre collbaoration."
@@ -48,6 +48,6 @@ faq:
     - id: 9
       title : "Comment puis-je récupérer les données ?"
       content : "D’un clic depuis le Back-Office, vous pourrez récupérer l’intégralités des données collectées lors de vos évènements.
-	L’export se fait au format CSV ou bien, Excel.
-	Sur devis, nous pouvons également nous connecter à votre CRM habituel (SalesForce par exemple)"
+  L’export se fait au format CSV ou bien, Excel.
+  Sur devis, nous pouvons également nous connecter à votre CRM habituel (SalesForce par exemple)"
   
