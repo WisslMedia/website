@@ -14,4 +14,10 @@ testimonial:
       image : images/clubs/ol.svg
       date : Janvier 2020
       content : "Au-delà de proposer une solution d’animation efficace, Wissl Media a su apporter une touche humaine à son offre. En étant à l’écoute de nos besoins et de nos objectifs, sans oublier l’utilisateur final, Wissl Media est parvenu à créer une relation « Win Win » avec l’Olympique lyonnais. "
+
+    # testimonial item loop
+    - name : Jean Rasolomalala, Chargé de production évènementielle et fan expérience
+      image : images/clubs/asse.svg
+      date : Juin 2026
+      content : "Cela fait plusieurs années que nous travaillons avec WISSLMEDIA sur notre quiz d'avant-match diffusé sur les écrans géants du Stade Geoffroy-Guichard. Leurs équipes sont toujours réactives, à l'écoute et force de proposition pour faire évoluer nos projets. Ce que nous apprécions particulièrement, c'est leur disponibilité et leur envie de toujours trouver des solutions pour répondre à nos besoins. Grâce à cette collaboration, nous avons pu mettre en place de nouvelles fonctionnalités et proposer une expérience toujours plus interactive à nos supporters"
       
